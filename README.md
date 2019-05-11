@@ -33,7 +33,7 @@ This tutorial is covering the types of number systems as well as how to convert 
 
   
   ### Number Conversion
-  ![https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg]
+  ![](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
 
 ## Description of Target Audience
 This tutorial is intended for students beginning their journey into the world of computer systems. 
