@@ -37,7 +37,7 @@ This tutorial is covering the types of number systems as well as how to convert 
   
   Click the link to view the [Tutorials Point](https://www.tutorialspoint.com/computer_logical_organization/number_system_conversion.htm) explanation fo conversion between the 4 number systems. 
 
-  [![Number Systems Conversion Intro](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://youtu.be/L2zsmYaI5ww)
+  [![Number Systems Conversion Intro](https://i.ytimg.com/vi/L2zsmYaI5ww/maxresdefault.jpg)](https://youtu.be/L2zsmYaI5ww)
 
 
 ## Description of Target Audience
