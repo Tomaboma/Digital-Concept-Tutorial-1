@@ -33,9 +33,12 @@ This tutorial is covering the types of number systems as well as how to convert 
 
   
   ### Number Conversion
-  ![][https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg]
+  ![](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
   
   Click the link to view the [Tutorials Point](https://www.tutorialspoint.com/computer_logical_organization/number_system_conversion.htm) explanation fo conversion between the 4 number systems. 
+
+  [![Number Systems Conversion Intro](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://youtu.be/L2zsmYaI5ww)
+
 
 ## Description of Target Audience
 This tutorial is intended for students beginning their journey into the world of computer systems. 
